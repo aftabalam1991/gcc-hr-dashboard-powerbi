@@ -1,0 +1,19 @@
+{
+ "name": "GCC HR",
+ "dataColors": [
+  "#01B8AA",
+  "#374649",
+  "#FD625E",
+  "#F2C80F",
+  "#8AD4EB",
+  "#FE9666",
+  "#A66999",
+  "#5B9BD5"
+ ],
+ "background": "#FFFFFF",
+ "foreground": "#252423",
+ "tableAccent": "#01B8AA",
+ "good": "#2E9E5B",
+ "bad": "#FD625E",
+ "neutral": "#F2C80F"
+}
